@@ -30,5 +30,6 @@ External Resources: Cohere and Annoy documentation.
 
 
 ## Project Reflections
-Challenges: choosing the best chunking method, embedding model, or text generation model.
-Key Learning: Gained hands-on experience with semantic search, vector-based indexing, and integrating deep learning models for question-answering tasks.
+**Challenges**: choosing the best chunking method, embedding model, or text generation model.
+
+**Key Learning**: Gained hands-on experience with semantic search, vector-based indexing, and integrating deep learning models for question-answering tasks.
