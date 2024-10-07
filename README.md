@@ -12,11 +12,12 @@ The dataset is a single article about Cyshield's services, split into meaningful
 ## Experiments
 Goal: Improve search accuracy by using text embeddings.
 
-Approach:
-
-The article was split into paragraphs and embedded using Cohere's `embed-multilingual-v3.0` model.
+Approach: The article was split into paragraphs and embedded using Cohere's `embed-multilingual-v3.0` model.
 `Annoy` was used to create a fast vector search index for retrieving relevant chunks.
 
+Results: Cohere's `command-r-plus` model effectively generated concise, relevant answers from the article in Arabic and English.
+
+Conclusion: Integrating deep learning models enhanced the system’s ability to generate precise answers, improving the overall user experience.
 
 ## Tools and Resources
 Tools Used: 
