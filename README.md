@@ -24,7 +24,7 @@ Tools Used:
   - [Cohere](https://docs.cohere.com/) API (text [embeddings](https://dashboard.cohere.com/playground/embed) , answer [generation](https://dashboard.cohere.com/playground/generate))
   - [annoy](https://github.com/spotify/annoy) (vector search)
   - NumPy (embedding handling)
-  - Python libraries.
+  - Python libraries ([python-dotenv](https://pypi.org/project/python-dotenv/#:~:text=python-dotenv.%20Python-dotenv%20reads)).
 
 External Resources: Cohere and Annoy documentation.
 
